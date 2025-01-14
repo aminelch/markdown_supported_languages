@@ -233,6 +233,8 @@ bool getBit(int num, int i) {
  * scheme ('*.scm')
 
  * scss ('*.scss')
+ 
+ * shell ('*.sh', '*.bash', '*.bats', '*.cgi', '*.command', '*.fcgi', '*.ksh', '*.sh.in', '*.tmux', '*.tool', '*.trigger', '*.zsh', '*.zsh-theme')
 
  * smalltalk ('*.st')
 
